@@ -47,7 +47,7 @@ const AllEvent = () => {
                 <button className="about-btn">HOME</button>
             </Link>
             <Footer></Footer>
-            <Footer></Footer>
+
         </div>
     );
 };
