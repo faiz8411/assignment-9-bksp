@@ -1,0 +1,15 @@
+.carusel-container{
+    background-color: darkslategray;
+}
+
+
+.carusel{
+    width: 1000px;
+    height: 600px;
+    background-color: blueviolet;
+}
+.carusel-text{
+    font-size: x-large;
+    font-weight: 900;
+    color: rgb(241, 226, 12);
+}

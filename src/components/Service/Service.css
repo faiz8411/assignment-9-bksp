@@ -1,0 +1,12 @@
+
+.card-title{
+    font-size: x-large;
+}
+.heading-cart{
+    border: 1px solid gray ;
+    background-color: darkviolet;
+    color: ghostwhite;
+}
+.cart-details{
+    border: 1px solid gray;
+}

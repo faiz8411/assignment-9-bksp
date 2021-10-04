@@ -1,0 +1,10 @@
+.btn-home{
+    background-color: rgb(27, 235, 120);
+    padding: 20px;
+    border: 1px solid gainsboro;
+    border-radius: 10px;
+    color: rgb(253, 175, 7);
+}
+.notfound{
+    background-color: honeydew;
+}

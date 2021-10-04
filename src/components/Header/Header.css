@@ -1,0 +1,40 @@
+.banner {
+    /* background-image: url("https://dcassetcdn.com/design_img/7305/22458/22458_192465_7305_image.jpg"),
+      linear-gradient(rgba(24, 14, 14, 0.5), rgba(3, 3, 3, 0.5)); */
+    height: 780px;
+    width: 100%;
+    /* border: 1px solid red; */
+    background-blend-mode: overlay;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
+  .title {
+    color: #f5f4f4f8;
+    font-weight: bold;
+    font-size: 59px;
+  }
+  .about-btn {
+    background-color: #06da93;
+    outline: none;
+    border: none;
+    padding: 17px 34px;
+    color: rgb(231, 229, 245);
+    border-radius: 10px;
+    font-weight: 900;
+    font-size: xx-large;
+  }
+  .text-paragrap{
+      color: rgba(238, 238, 236, 0.753);
+      font-size: x-large;
+      border: 1px solid mediumseagreen;
+      font-weight: 900;
+  }
+  .text-danger{
+      font-size: xx-large;
+      font-weight: bold;
+  }
+  .li-part{
+    font-size: x-large;
+  }
+  
